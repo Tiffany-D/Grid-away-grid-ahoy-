@@ -70,3 +70,9 @@ button:hover{
     box-shadow: 7px 7px 5px #DDDDDD;
     transition: ease-in-out;
 }
+
+footer{
+    text-align: center;
+    line-height: 5;
+    font-family: 'Open Sans', sans-serif;
+}
